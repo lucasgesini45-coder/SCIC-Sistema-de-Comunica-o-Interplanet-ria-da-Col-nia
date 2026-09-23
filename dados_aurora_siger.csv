@@ -1,0 +1,31 @@
+id,modulo,tipo,latencia_prevista,latencia_observada,tensao,corrente,status,prioridade,codigo_sensor,mensagem,ciclo
+1,Comunicacao Central,Comunicacao,120,128,12,1.5,Ativo,1,COM001,Operacao normal,1
+2,Habitat Alpha,Habitacao,150,210,24,2.1,Alerta,3,HAB002,Latencia elevada,1
+3,Estufa Marte,Agricultura,180,195,12,1.2,Ativo,1,AGR003,Sinal estavel,1
+4,Laboratorio Orion,Laboratorio,130,250,24,2.5,Alerta,3,LAB004,Falha de comunicacao,1
+5,Suporte Medico,Suporte Medico,100,115,12,1.8,Ativo,2,MED005,Oscilacao detectada,1
+6,Armazenamento Central,Armazenamento,160,175,24,1.4,Manutencao,2,ARM006,Verificacao preventiva,1
+7,Controle Principal,Controle,110,118,12,1.6,Ativo,1,CON007,Operacao normal,1
+8,Producao de Oxigenio,Suporte,140,190,24,2.0,Alerta,3,OXI008,Latencia acima do esperado,1
+9,Comando Secundario,Comunicacao,125,137,12,1.7,Ativo,1,COM009,Conexao estavel,1
+10,Estacao Energia,Energia,170,205,24,2.2,Manutencao,2,ENE010,Oscilacao de sinal,1
+11,Comunicacao Central,Comunicacao,118,125,12,1.6,Ativo,1,COM011,Operacao normal,2
+12,Habitat Alpha,Habitacao,148,180,24,2.0,Alerta,2,HAB012,Oscilacao de comunicacao,2
+13,Estufa Marte,Agricultura,175,188,12,1.3,Ativo,1,AGR013,Sinal estavel,2
+14,Laboratorio Orion,Laboratorio,135,220,24,2.4,Alerta,3,LAB014,Latencia elevada,2
+15,Suporte Medico,Suporte Medico,105,112,12,1.7,Ativo,1,MED015,Operacao normal,2
+16,Armazenamento Central,Armazenamento,155,168,24,1.5,Ativo,1,ARM016,Comunicacao normal,2
+17,Controle Principal,Controle,115,124,12,1.7,Ativo,1,CON017,Operacao normal,2
+18,Producao de Oxigenio,Suporte,145,172,24,2.1,Manutencao,2,OXI018,Oscilacao detectada,2
+19,Comando Secundario,Comunicacao,130,142,12,1.8,Ativo,1,COM019,Conexao estavel,2
+20,Estacao Energia,Energia,165,194,24,2.3,Alerta,2,ENE020,Latencia moderada,2
+21,Comunicacao Central,Comunicacao,122,131,12,1.4,Ativo,1,COM021,Sinal estavel,3
+22,Habitat Alpha,Habitacao,152,198,24,2.2,Alerta,3,HAB022,Latencia elevada,3
+23,Estufa Marte,Agricultura,178,184,12,1.1,Ativo,1,AGR023,Operacao normal,3
+24,Laboratorio Orion,Laboratorio,128,238,24,2.6,Alerta,3,LAB024,Falha parcial de comunicacao,3
+25,Suporte Medico,Suporte Medico,102,121,12,1.9,Ativo,2,MED025,Oscilacao detectada,3
+26,Armazenamento Central,Armazenamento,162,171,24,1.3,Ativo,1,ARM026,Comunicacao normal,3
+27,Controle Principal,Controle,108,116,12,1.5,Ativo,1,CON027,Operacao normal,3
+28,Producao de Oxigenio,Suporte,142,183,24,2.2,Alerta,3,OXI028,Latencia elevada,3
+29,Comando Secundario,Comunicacao,127,134,12,1.6,Ativo,1,COM029,Conexao estavel,3
+30,Estacao Energia,Energia,168,199,24,2.4,Manutencao,2,ENE030,Verificacao preventiva,3
