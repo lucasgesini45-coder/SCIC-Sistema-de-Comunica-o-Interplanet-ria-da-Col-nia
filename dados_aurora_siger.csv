@@ -1,0 +1,181 @@
+ciclo,nome,tipo,codigo_sensor,latencia_observada,latencia_prevista,erro_absoluto,erro_relativo_pct,tensao,corrente,potencia,status,prioridade,persistencia,mensagem_alerta
+1,Centro de Comunicação,Comunicação,SEN-A1F,422.52,410.2,12.32,3.0,28.34,3.5,99.19,Ativo,5,0,Operação normal
+1,Suporte Médico Alfa,Suporte médico,SEN-B2C,241.96,245.06,3.1,1.26,22.75,2.54,57.785,Ativo,5,0,Operação normal
+1,Laboratório Boreal,Laboratório,SEN-C3D,328.28,327.42,0.86,0.26,24.84,3.28,81.4752,Ativo,3,0,Operação normal
+1,Estufa Aurora,Agricultura,SEN-D4E,208.17,213.8,5.63,2.63,11.59,3.65,42.3035,Ativo,4,0,Operação normal
+1,Habitação Norte,Habitação,SEN-E5F,195.69,186.56,9.13,4.89,23.82,1.84,43.8288,Ativo,4,0,Operação normal
+1,Armazenamento de Dados,Armazenamento de dados,SEN-F60,421.14,415.07,6.07,1.46,47.32,1.6,75.712,Ativo,3,0,Operação normal
+2,Centro de Comunicação,Comunicação,SEN-A1F,428.86,437.83,8.97,2.05,30.4,3.8,115.52,Ativo,5,0,Operação normal
+2,Suporte Médico Alfa,Suporte médico,SEN-B2C,242.7,251.14,8.44,3.36,25.08,2.47,61.9476,Ativo,5,0,Operação normal
+2,Laboratório Boreal,Laboratório,SEN-C3D,317.12,325.79,8.67,2.66,24.71,3.2,79.072,Ativo,3,0,Operação normal
+2,Estufa Aurora,Agricultura,SEN-D4E,227.07,219.83,7.24,3.29,12.1,3.87,46.827,Manutenção,4,0,Manutenção programada
+2,Habitação Norte,Habitação,SEN-E5F,183.41,194.76,11.35,5.83,24.28,2.15,52.202,Ativo,4,0,Operação normal
+2,Armazenamento de Dados,Armazenamento de dados,SEN-F60,428.93,404.72,24.21,5.98,46.77,1.45,67.8165,Ativo,3,0,Operação normal
+3,Centro de Comunicação,Comunicação,SEN-A1F,417.68,414.98,2.7,0.65,26.12,3.84,100.3008,Ativo,5,0,Operação normal
+3,Suporte Médico Alfa,Suporte médico,SEN-B2C,245.25,249.87,4.62,1.85,24.76,2.4,59.424,Ativo,5,0,Operação normal
+3,Laboratório Boreal,Laboratório,SEN-C3D,290.12,301.2,11.08,3.68,22.78,2.59,59.0002,Ativo,3,0,Operação normal
+3,Estufa Aurora,Agricultura,SEN-D4E,224.56,215.44,9.12,4.23,12.33,3.32,40.9356,Ativo,4,0,Operação normal
+3,Habitação Norte,Habitação,SEN-E5F,271.32,190.48,80.84,42.44,24.44,1.84,44.9696,Alerta,4,1,Latência crítica no enlace
+3,Armazenamento de Dados,Armazenamento de dados,SEN-F60,418.37,410.48,7.89,1.92,47.1,1.5,70.65,Ativo,3,0,Operação normal
+4,Centro de Comunicação,Comunicação,SEN-A1F,424.21,425.57,1.36,0.32,27.89,3.8,105.982,Ativo,5,0,Operação normal
+4,Suporte Médico Alfa,Suporte médico,SEN-B2C,244.86,241.01,3.85,1.6,22.73,2.2,50.006,Ativo,5,0,Operação normal
+4,Laboratório Boreal,Laboratório,SEN-C3D,329.65,320.21,9.44,2.95,25.25,2.87,72.4675,Ativo,3,0,Operação normal
+4,Estufa Aurora,Agricultura,SEN-D4E,232.3,214.77,17.53,8.16,11.54,3.36,38.7744,Ativo,4,0,Operação normal
+4,Habitação Norte,Habitação,SEN-E5F,180.95,192.05,11.1,5.78,24.23,1.86,45.0678,Ativo,4,0,Operação normal
+4,Armazenamento de Dados,Armazenamento de dados,SEN-F60,441.6,415.01,26.59,6.41,48.45,1.5,72.675,Ativo,3,0,Operação normal
+5,Centro de Comunicação,Comunicação,SEN-A1F,467.02,442.94,24.08,5.44,28.2,4.11,115.902,Ativo,5,0,Operação normal
+5,Suporte Médico Alfa,Suporte médico,SEN-B2C,240.96,247.29,6.33,2.56,25.4,2.14,54.356,Ativo,5,0,Operação normal
+5,Laboratório Boreal,Laboratório,SEN-C3D,319.86,322.73,2.87,0.89,22.68,3.23,73.2564,Ativo,3,0,Operação normal
+5,Estufa Aurora,Agricultura,SEN-D4E,255.65,224.28,31.37,13.99,12.15,3.85,46.7775,Atenção,4,1,Latência acima do previsto
+5,Habitação Norte,Habitação,SEN-E5F,186.96,184.98,1.98,1.07,23.05,1.49,34.3445,Ativo,4,0,Operação normal
+5,Armazenamento de Dados,Armazenamento de dados,SEN-F60,428.25,410.74,17.51,4.26,46.82,1.47,68.8254,Ativo,3,0,Operação normal
+6,Centro de Comunicação,Comunicação,SEN-A1F,388.71,396.42,7.71,1.94,26.84,3.2,85.888,Ativo,5,0,Operação normal
+6,Suporte Médico Alfa,Suporte médico,SEN-B2C,271.06,260.81,10.25,3.93,25.7,2.54,65.278,Ativo,5,0,Operação normal
+6,Laboratório Boreal,Laboratório,SEN-C3D,337.67,311.18,26.49,8.51,23.07,2.74,63.2118,Ativo,3,0,Operação normal
+6,Estufa Aurora,Agricultura,SEN-D4E,243.59,224.01,19.58,8.74,11.57,3.89,45.0073,Ativo,4,0,Operação normal
+6,Habitação Norte,Habitação,SEN-E5F,194.84,198.45,3.61,1.82,23.37,2.11,49.3107,Ativo,4,0,Operação normal
+6,Armazenamento de Dados,Armazenamento de dados,SEN-F60,440.84,438.04,2.8,0.64,48.33,1.78,86.0274,Ativo,3,0,Operação normal
+7,Centro de Comunicação,Comunicação,SEN-A1F,446.76,454.23,7.47,1.64,29.46,4.11,121.0806,Ativo,5,0,Operação normal
+7,Suporte Médico Alfa,Suporte médico,SEN-B2C,249.11,261.94,12.83,4.9,25.47,2.55,64.9485,Ativo,5,0,Operação normal
+7,Laboratório Boreal,Laboratório,SEN-C3D,323.5,328.53,5.03,1.53,25.65,2.94,75.411,Ativo,3,0,Operação normal
+7,Estufa Aurora,Agricultura,SEN-D4E,244.18,220.03,24.15,10.98,12.67,3.12,39.5304,Atenção,4,1,Latência acima do previsto
+7,Habitação Norte,Habitação,SEN-E5F,211.44,200.17,11.27,5.63,23.84,2.08,49.5872,Ativo,4,0,Operação normal
+7,Armazenamento de Dados,Armazenamento de dados,SEN-F60,395.18,408.97,13.79,3.37,44.06,1.49,65.6494,Ativo,3,0,Operação normal
+8,Centro de Comunicação,Comunicação,SEN-A1F,433.97,458.28,24.31,5.3,27.63,4.44,122.6772,Ativo,5,0,Operação normal
+8,Suporte Médico Alfa,Suporte médico,SEN-B2C,251.91,255.25,3.34,1.31,24.47,2.35,57.5045,Ativo,5,0,Operação normal
+8,Laboratório Boreal,Laboratório,SEN-C3D,441.74,328.62,113.12,34.42,25.28,2.94,74.3232,Alerta,3,1,Latência crítica no enlace
+8,Estufa Aurora,Agricultura,SEN-D4E,246.05,222.64,23.41,10.51,11.48,3.54,40.6392,Atenção,4,2,Latência acima do previsto
+8,Habitação Norte,Habitação,SEN-E5F,186.21,197.79,11.58,5.85,23.18,1.93,44.7374,Manutenção,4,0,Manutenção programada
+8,Armazenamento de Dados,Armazenamento de dados,SEN-F60,404.54,415.41,10.87,2.62,50.32,1.37,68.9384,Ativo,3,0,Operação normal
+9,Centro de Comunicação,Comunicação,SEN-A1F,409.48,424.36,14.88,3.51,26.81,3.75,100.5375,Ativo,5,0,Operação normal
+9,Suporte Médico Alfa,Suporte médico,SEN-B2C,257.54,271.53,13.99,5.15,22.59,3.14,70.9326,Ativo,5,0,Operação normal
+9,Laboratório Boreal,Laboratório,SEN-C3D,318.59,323.35,4.76,1.47,26.79,2.58,69.1182,Ativo,3,0,Operação normal
+9,Estufa Aurora,Agricultura,SEN-D4E,253.68,222.7,30.98,13.91,11.53,3.4,39.202,Atenção,4,3,Latência acima do previsto
+9,Habitação Norte,Habitação,SEN-E5F,236.49,195.39,41.1,21.03,23.87,1.67,39.8629,Atenção,4,1,Latência acima do previsto
+9,Armazenamento de Dados,Armazenamento de dados,SEN-F60,439.47,436.75,2.72,0.62,48.91,1.68,82.1688,Ativo,3,0,Operação normal
+10,Centro de Comunicação,Comunicação,SEN-A1F,433.94,428.52,5.42,1.26,28.0,3.65,102.2,Ativo,5,0,Operação normal
+10,Suporte Médico Alfa,Suporte médico,SEN-B2C,368.13,279.97,88.16,31.49,26.01,2.97,77.2497,Alerta,5,1,Latência crítica no enlace
+10,Laboratório Boreal,Laboratório,SEN-C3D,340.79,337.24,3.55,1.05,22.93,3.43,78.6499,Ativo,3,0,Operação normal
+10,Estufa Aurora,Agricultura,SEN-D4E,248.4,230.94,17.46,7.56,12.45,3.69,45.9405,Ativo,4,0,Operação normal
+10,Habitação Norte,Habitação,SEN-E5F,201.3,202.13,0.83,0.41,24.05,1.93,46.4165,Ativo,4,0,Operação normal
+10,Armazenamento de Dados,Armazenamento de dados,SEN-F60,390.56,394.29,3.73,0.95,50.83,1.04,52.8632,Ativo,3,0,Operação normal
+11,Centro de Comunicação,Comunicação,SEN-A1F,411.27,405.94,5.33,1.31,27.58,3.16,87.1528,Ativo,5,0,Operação normal
+11,Suporte Médico Alfa,Suporte médico,SEN-B2C,261.41,262.05,0.64,0.24,24.83,2.4,59.592,Ativo,5,0,Operação normal
+11,Laboratório Boreal,Laboratório,SEN-C3D,365.56,341.87,23.69,6.93,25.25,3.21,81.0525,Ativo,3,0,Operação normal
+11,Estufa Aurora,Agricultura,SEN-D4E,272.35,233.75,38.6,16.51,12.84,3.68,47.2512,Atenção,4,1,Latência acima do previsto
+11,Habitação Norte,Habitação,SEN-E5F,198.49,208.31,9.82,4.71,23.33,2.24,52.2592,Ativo,4,0,Operação normal
+11,Armazenamento de Dados,Armazenamento de dados,SEN-F60,453.19,439.98,13.21,3.0,48.14,1.71,82.3194,Ativo,3,0,Operação normal
+12,Centro de Comunicação,Comunicação,SEN-A1F,414.3,434.68,20.38,4.69,26.24,3.97,104.1728,Ativo,5,0,Operação normal
+12,Suporte Médico Alfa,Suporte médico,SEN-B2C,249.45,259.99,10.54,4.05,24.61,2.29,56.3569,Ativo,5,0,Operação normal
+12,Laboratório Boreal,Laboratório,SEN-C3D,347.81,332.44,15.37,4.62,23.36,3.11,72.6496,Ativo,3,0,Operação normal
+12,Estufa Aurora,Agricultura,SEN-D4E,267.96,230.89,37.07,16.06,12.15,3.53,42.8895,Atenção,4,2,Latência acima do previsto
+12,Habitação Norte,Habitação,SEN-E5F,280.93,208.11,72.82,34.99,23.43,2.14,50.1402,Alerta,4,1,Latência crítica no enlace
+12,Armazenamento de Dados,Armazenamento de dados,SEN-F60,452.63,434.08,18.55,4.27,46.9,1.65,77.385,Ativo,3,0,Operação normal
+13,Centro de Comunicação,Comunicação,SEN-A1F,429.51,432.06,2.55,0.59,28.3,3.59,101.597,Ativo,5,0,Operação normal
+13,Suporte Médico Alfa,Suporte médico,SEN-B2C,258.06,259.35,1.29,0.5,24.96,2.18,54.4128,Ativo,5,0,Operação normal
+13,Laboratório Boreal,Laboratório,SEN-C3D,343.35,332.13,11.22,3.38,23.21,3.07,71.2547,Ativo,3,0,Operação normal
+13,Estufa Aurora,Agricultura,SEN-D4E,279.55,237.28,42.27,17.81,12.41,3.85,47.7785,Atenção,4,3,Latência acima do previsto
+13,Habitação Norte,Habitação,SEN-E5F,278.07,211.72,66.35,31.34,22.08,2.39,52.7712,Alerta,4,2,Latência crítica no enlace
+13,Armazenamento de Dados,Armazenamento de dados,SEN-F60,389.49,402.26,12.77,3.17,45.6,1.21,55.176,Ativo,3,0,Operação normal
+14,Centro de Comunicação,Comunicação,SEN-A1F,382.45,421.38,38.93,9.24,28.31,3.32,93.9892,Ativo,5,0,Operação normal
+14,Suporte Médico Alfa,Suporte médico,SEN-B2C,414.71,273.86,140.85,51.43,24.44,2.71,66.2324,Manutenção,5,1,Manutenção programada
+14,Laboratório Boreal,Laboratório,SEN-C3D,332.73,330.13,2.6,0.79,23.32,2.94,68.5608,Ativo,3,0,Operação normal
+14,Estufa Aurora,Agricultura,SEN-D4E,361.74,232.53,129.21,55.57,12.25,3.39,41.5275,Alerta,4,4,Latência crítica no enlace
+14,Habitação Norte,Habitação,SEN-E5F,191.67,197.01,5.34,2.71,22.58,1.44,32.5152,Ativo,4,0,Operação normal
+14,Armazenamento de Dados,Armazenamento de dados,SEN-F60,570.49,444.37,126.12,28.38,48.38,1.7,82.246,Alerta,3,1,Latência crítica no enlace
+15,Centro de Comunicação,Comunicação,SEN-A1F,481.77,480.0,1.77,0.37,27.89,4.65,129.6885,Ativo,5,0,Operação normal
+15,Suporte Médico Alfa,Suporte médico,SEN-B2C,254.2,257.89,3.69,1.43,22.58,2.23,50.3534,Ativo,5,0,Operação normal
+15,Laboratório Boreal,Laboratório,SEN-C3D,489.84,335.04,154.8,46.2,22.67,3.14,71.1838,Alerta,3,1,Latência crítica no enlace
+15,Estufa Aurora,Agricultura,SEN-D4E,269.92,232.96,36.96,15.87,12.45,3.25,40.4625,Atenção,4,5,Latência acima do previsto
+15,Habitação Norte,Habitação,SEN-E5F,213.35,210.58,2.77,1.32,24.41,1.95,47.5995,Ativo,4,0,Operação normal
+15,Armazenamento de Dados,Armazenamento de dados,SEN-F60,427.34,409.84,17.5,4.27,47.34,1.23,58.2282,Ativo,3,0,Operação normal
+16,Centro de Comunicação,Comunicação,SEN-A1F,459.55,453.22,6.33,1.4,28.43,3.94,112.0142,Ativo,5,0,Operação normal
+16,Suporte Médico Alfa,Suporte médico,SEN-B2C,283.21,271.52,11.69,4.31,24.07,2.55,61.3785,Ativo,5,0,Operação normal
+16,Laboratório Boreal,Laboratório,SEN-C3D,329.59,340.95,11.36,3.33,23.98,3.11,74.5778,Ativo,3,0,Operação normal
+16,Estufa Aurora,Agricultura,SEN-D4E,273.74,231.93,41.81,18.03,11.46,3.31,37.9326,Atenção,4,6,Latência acima do previsto
+16,Habitação Norte,Habitação,SEN-E5F,208.95,212.41,3.46,1.63,23.08,2.08,48.0064,Ativo,4,0,Operação normal
+16,Armazenamento de Dados,Armazenamento de dados,SEN-F60,448.56,430.25,18.31,4.26,49.19,1.44,70.8336,Ativo,3,0,Operação normal
+17,Centro de Comunicação,Comunicação,SEN-A1F,506.21,478.76,27.45,5.73,30.91,4.11,127.0401,Ativo,5,0,Operação normal
+17,Suporte Médico Alfa,Suporte médico,SEN-B2C,261.63,270.05,8.42,3.12,23.95,2.45,58.6775,Ativo,5,0,Operação normal
+17,Laboratório Boreal,Laboratório,SEN-C3D,359.28,354.09,5.19,1.47,24.64,3.39,83.5296,Ativo,3,0,Operação normal
+17,Estufa Aurora,Agricultura,SEN-D4E,389.36,241.6,147.76,61.16,11.85,3.89,46.0965,Alerta,4,7,Latência crítica no enlace
+17,Habitação Norte,Habitação,SEN-E5F,279.1,220.25,58.85,26.72,25.31,2.21,55.9351,Alerta,4,1,Latência crítica no enlace
+17,Armazenamento de Dados,Armazenamento de dados,SEN-F60,440.2,450.28,10.08,2.24,52.65,1.58,83.187,Ativo,3,0,Operação normal
+18,Centro de Comunicação,Comunicação,SEN-A1F,454.73,456.3,1.57,0.34,27.67,4.05,112.0635,Ativo,5,0,Operação normal
+18,Suporte Médico Alfa,Suporte médico,SEN-B2C,278.73,269.07,9.66,3.59,24.64,2.29,56.4256,Ativo,5,0,Operação normal
+18,Laboratório Boreal,Laboratório,SEN-C3D,349.04,351.73,2.69,0.76,23.15,3.48,80.562,Ativo,3,0,Operação normal
+18,Estufa Aurora,Agricultura,SEN-D4E,297.03,242.21,54.82,22.63,12.7,3.56,45.212,Atenção,4,8,Latência acima do previsto
+18,Habitação Norte,Habitação,SEN-E5F,215.76,211.93,3.83,1.81,23.1,1.89,43.659,Ativo,4,0,Operação normal
+18,Armazenamento de Dados,Armazenamento de dados,SEN-F60,515.36,447.48,67.88,15.17,46.97,1.71,80.3187,Atenção,3,1,Latência acima do previsto
+19,Centro de Comunicação,Comunicação,SEN-A1F,450.8,455.42,4.62,1.01,28.28,3.91,110.5748,Ativo,5,0,Operação normal
+19,Suporte Médico Alfa,Suporte médico,SEN-B2C,284.5,277.15,7.35,2.65,23.03,2.71,62.4113,Ativo,5,0,Operação normal
+19,Laboratório Boreal,Laboratório,SEN-C3D,364.96,366.23,1.27,0.35,24.28,3.73,90.5644,Ativo,3,0,Operação normal
+19,Estufa Aurora,Agricultura,SEN-D4E,277.57,232.77,44.8,19.25,11.5,2.98,34.27,Atenção,4,9,Latência acima do previsto
+19,Habitação Norte,Habitação,SEN-E5F,221.2,213.52,7.68,3.6,24.05,1.82,43.771,Manutenção,4,0,Manutenção programada
+19,Armazenamento de Dados,Armazenamento de dados,SEN-F60,444.01,440.7,3.31,0.75,46.75,1.6,74.8,Manutenção,3,0,Manutenção programada
+20,Centro de Comunicação,Comunicação,SEN-A1F,444.95,441.59,3.36,0.76,28.29,3.57,100.9953,Ativo,5,0,Operação normal
+20,Suporte Médico Alfa,Suporte médico,SEN-B2C,281.11,277.08,4.03,1.45,25.2,2.42,60.984,Ativo,5,0,Operação normal
+20,Laboratório Boreal,Laboratório,SEN-C3D,339.93,330.48,9.45,2.86,23.72,2.61,61.9092,Ativo,3,0,Operação normal
+20,Estufa Aurora,Agricultura,SEN-D4E,315.36,241.76,73.6,30.44,11.6,3.6,41.76,Alerta,4,10,Latência crítica no enlace
+20,Habitação Norte,Habitação,SEN-E5F,202.05,212.96,10.91,5.12,25.75,1.6,41.2,Ativo,4,0,Operação normal
+20,Armazenamento de Dados,Armazenamento de dados,SEN-F60,412.93,444.48,31.55,7.1,49.56,1.54,76.3224,Ativo,3,0,Operação normal
+21,Centro de Comunicação,Comunicação,SEN-A1F,444.12,455.73,11.61,2.55,29.43,3.7,108.891,Ativo,5,0,Operação normal
+21,Suporte Médico Alfa,Suporte médico,SEN-B2C,382.0,264.98,117.02,44.16,24.43,1.99,48.6157,Alerta,5,1,Latência crítica no enlace
+21,Laboratório Boreal,Laboratório,SEN-C3D,320.25,337.57,17.32,5.13,24.43,2.71,66.2053,Inativo,3,0,Sem comunicação com o módulo
+21,Estufa Aurora,Agricultura,SEN-D4E,396.97,249.63,147.34,59.02,11.71,4.11,48.1281,Alerta,4,11,Latência crítica no enlace
+21,Habitação Norte,Habitação,SEN-E5F,214.49,218.08,3.59,1.65,24.45,1.87,45.7215,Ativo,4,0,Operação normal
+21,Armazenamento de Dados,Armazenamento de dados,SEN-F60,493.63,447.95,45.68,10.2,43.37,1.79,77.6323,Atenção,3,1,Latência acima do previsto
+22,Centro de Comunicação,Comunicação,SEN-A1F,450.32,453.77,3.45,0.76,27.65,3.86,106.729,Ativo,5,0,Operação normal
+22,Suporte Médico Alfa,Suporte médico,SEN-B2C,275.75,268.25,7.5,2.8,24.5,2.05,50.225,Ativo,5,0,Operação normal
+22,Laboratório Boreal,Laboratório,SEN-C3D,352.27,343.81,8.46,2.46,23.68,2.95,69.856,Ativo,3,0,Operação normal
+22,Estufa Aurora,Agricultura,SEN-D4E,303.2,242.88,60.32,24.84,11.17,3.57,39.8769,Atenção,4,12,Latência acima do previsto
+22,Habitação Norte,Habitação,SEN-E5F,296.21,218.64,77.57,35.48,25.6,1.74,44.544,Alerta,4,1,Latência crítica no enlace
+22,Armazenamento de Dados,Armazenamento de dados,SEN-F60,411.82,441.71,29.89,6.77,50.33,1.44,72.4752,Ativo,3,0,Operação normal
+23,Centro de Comunicação,Comunicação,SEN-A1F,428.15,459.5,31.35,6.82,27.62,3.96,109.3752,Ativo,5,0,Operação normal
+23,Suporte Médico Alfa,Suporte médico,SEN-B2C,267.36,259.22,8.14,3.14,23.5,1.73,40.655,Ativo,5,0,Operação normal
+23,Laboratório Boreal,Laboratório,SEN-C3D,356.97,352.05,4.92,1.4,22.74,3.3,75.042,Ativo,3,0,Operação normal
+23,Estufa Aurora,Agricultura,SEN-D4E,316.25,249.15,67.1,26.93,12.2,3.66,44.652,Alerta,4,13,Latência crítica no enlace
+23,Habitação Norte,Habitação,SEN-E5F,218.33,222.2,3.87,1.74,25.2,1.87,47.124,Ativo,4,0,Operação normal
+23,Armazenamento de Dados,Armazenamento de dados,SEN-F60,435.35,442.87,7.52,1.7,50.88,1.42,72.2496,Ativo,3,0,Operação normal
+24,Centro de Comunicação,Comunicação,SEN-A1F,512.66,421.82,90.84,21.54,29.07,2.92,84.8844,Atenção,5,1,Latência acima do previsto
+24,Suporte Médico Alfa,Suporte médico,SEN-B2C,344.55,278.05,66.5,23.92,23.12,2.44,56.4128,Atenção,5,1,Latência acima do previsto
+24,Laboratório Boreal,Laboratório,SEN-C3D,329.7,342.16,12.46,3.64,25.01,2.65,66.2765,Ativo,3,0,Operação normal
+24,Estufa Aurora,Agricultura,SEN-D4E,327.65,248.96,78.69,31.61,12.31,3.49,42.9619,Manutenção,4,14,Manutenção programada
+24,Habitação Norte,Habitação,SEN-E5F,204.89,218.56,13.67,6.25,23.8,1.71,40.698,Ativo,4,0,Operação normal
+24,Armazenamento de Dados,Armazenamento de dados,SEN-F60,457.98,438.21,19.77,4.51,46.04,1.48,68.1392,Ativo,3,0,Operação normal
+25,Centro de Comunicação,Comunicação,SEN-A1F,495.86,490.31,5.55,1.13,26.97,4.7,126.759,Inativo,5,0,Sem comunicação com o módulo
+25,Suporte Médico Alfa,Suporte médico,SEN-B2C,342.76,283.84,58.92,20.76,22.93,2.63,60.3059,Atenção,5,2,Latência acima do previsto
+25,Laboratório Boreal,Laboratório,SEN-C3D,515.6,360.48,155.12,43.03,24.15,3.28,79.212,Alerta,3,1,Latência crítica no enlace
+25,Estufa Aurora,Agricultura,SEN-D4E,422.53,246.09,176.44,71.7,12.57,3.07,38.5899,Alerta,4,15,Latência crítica no enlace
+25,Habitação Norte,Habitação,SEN-E5F,216.9,224.94,8.04,3.57,24.5,1.91,46.795,Ativo,4,0,Operação normal
+25,Armazenamento de Dados,Armazenamento de dados,SEN-F60,499.99,466.67,33.32,7.14,46.05,1.87,86.1135,Ativo,3,0,Operação normal
+26,Centro de Comunicação,Comunicação,SEN-A1F,497.36,488.71,8.65,1.77,28.96,4.31,124.8176,Ativo,5,0,Operação normal
+26,Suporte Médico Alfa,Suporte médico,SEN-B2C,296.1,292.12,3.98,1.36,24.71,2.69,66.4699,Manutenção,5,0,Manutenção programada
+26,Laboratório Boreal,Laboratório,SEN-C3D,359.14,336.5,22.64,6.73,23.47,2.54,59.6138,Ativo,3,0,Operação normal
+26,Estufa Aurora,Agricultura,SEN-D4E,339.05,258.33,80.72,31.25,12.12,4.07,49.3284,Alerta,4,16,Latência crítica no enlace
+26,Habitação Norte,Habitação,SEN-E5F,252.06,228.2,23.86,10.46,24.38,2.01,49.0038,Atenção,4,1,Latência acima do previsto
+26,Armazenamento de Dados,Armazenamento de dados,SEN-F60,455.36,450.87,4.49,1.0,49.72,1.5,74.58,Ativo,3,0,Operação normal
+27,Centro de Comunicação,Comunicação,SEN-A1F,445.26,458.96,13.7,2.99,26.79,3.93,105.2847,Ativo,5,0,Operação normal
+27,Suporte Médico Alfa,Suporte médico,SEN-B2C,271.72,273.06,1.34,0.49,24.38,1.96,47.7848,Ativo,5,0,Operação normal
+27,Laboratório Boreal,Laboratório,SEN-C3D,346.14,358.25,12.11,3.38,24.98,3.01,75.1898,Ativo,3,0,Operação normal
+27,Estufa Aurora,Agricultura,SEN-D4E,355.28,259.71,95.57,36.8,12.18,4.04,49.2072,Alerta,4,17,Latência crítica no enlace
+27,Habitação Norte,Habitação,SEN-E5F,227.5,229.35,1.85,0.81,23.69,2.05,48.5645,Ativo,4,0,Operação normal
+27,Armazenamento de Dados,Armazenamento de dados,SEN-F60,444.02,438.56,5.46,1.24,47.03,1.39,65.3717,Ativo,3,0,Operação normal
+28,Centro de Comunicação,Comunicação,SEN-A1F,439.64,448.27,8.63,1.93,28.31,3.45,97.6695,Ativo,5,0,Operação normal
+28,Suporte Médico Alfa,Suporte médico,SEN-B2C,255.83,279.49,23.66,8.47,24.31,2.15,52.2665,Ativo,5,0,Operação normal
+28,Laboratório Boreal,Laboratório,SEN-C3D,371.68,354.47,17.21,4.86,24.03,2.96,71.1288,Ativo,3,0,Operação normal
+28,Estufa Aurora,Agricultura,SEN-D4E,331.04,250.63,80.41,32.08,12.75,3.03,38.6325,Alerta,4,18,Latência crítica no enlace
+28,Habitação Norte,Habitação,SEN-E5F,381.75,236.35,145.4,61.52,23.69,2.34,55.4346,Alerta,4,1,Latência crítica no enlace
+28,Armazenamento de Dados,Armazenamento de dados,SEN-F60,458.43,456.04,2.39,0.52,51.37,1.48,76.0276,Ativo,3,0,Operação normal
+29,Centro de Comunicação,Comunicação,SEN-A1F,480.98,463.03,17.95,3.88,28.95,3.66,105.957,Ativo,5,0,Operação normal
+29,Suporte Médico Alfa,Suporte médico,SEN-B2C,295.42,292.17,3.25,1.11,24.87,2.51,62.4237,Ativo,5,0,Operação normal
+29,Laboratório Boreal,Laboratório,SEN-C3D,345.46,336.49,8.97,2.67,24.41,2.3,56.143,Ativo,3,0,Operação normal
+29,Estufa Aurora,Agricultura,SEN-D4E,337.82,255.87,81.95,32.03,11.97,3.54,42.3738,Alerta,4,19,Latência crítica no enlace
+29,Habitação Norte,Habitação,SEN-E5F,306.53,228.63,77.9,34.07,23.61,1.86,43.9146,Alerta,4,2,Latência crítica no enlace
+29,Armazenamento de Dados,Armazenamento de dados,SEN-F60,393.76,427.23,33.47,7.83,48.12,1.16,55.8192,Ativo,3,0,Operação normal
+30,Centro de Comunicação,Comunicação,SEN-A1F,477.25,472.99,4.26,0.9,27.88,3.99,111.2412,Ativo,5,0,Operação normal
+30,Suporte Médico Alfa,Suporte médico,SEN-B2C,282.82,279.59,3.23,1.16,22.87,2.17,49.6279,Ativo,5,0,Operação normal
+30,Laboratório Boreal,Laboratório,SEN-C3D,321.04,332.11,11.07,3.33,21.6,2.39,51.624,Ativo,3,0,Operação normal
+30,Estufa Aurora,Agricultura,SEN-D4E,358.21,255.51,102.7,40.19,12.02,3.37,40.5074,Alerta,4,20,Latência crítica no enlace
+30,Habitação Norte,Habitação,SEN-E5F,230.43,226.9,3.53,1.56,24.46,1.63,39.8698,Ativo,4,0,Operação normal
+30,Armazenamento de Dados,Armazenamento de dados,SEN-F60,488.64,451.44,37.2,8.24,51.05,1.39,70.9595,Ativo,3,0,Operação normal
