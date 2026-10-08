@@ -461,7 +461,7 @@ Essas possibilidades permitem que o SCIC evolua de uma aplicação de terminal p
 | Lucas Ribeiro Gesini               | RM569383 |
 | Calebe Gonçalves Garcia de Souza   | RM568743 |
 | Filipe Souza Nascimento            | RM573758 |
-| Rafael De Freitas Silva            | RM570089 |
+| Raphael De Freitas Silva           | RM570089 |
 | Paulo Henrique Gonçalves Bueno     | RM570456 |
 
 ---
